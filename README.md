@@ -1,4 +1,4 @@
-# pp1-devsoft2-LuisMiguelLassoMesa
+# pp1-devsoft2-KRU
 
 Integrante
 Luis Miguel Lasso Mesa
